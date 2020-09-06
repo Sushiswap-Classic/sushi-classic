@@ -6,7 +6,25 @@
   "dependencies": {
     "@openzeppelin/contracts": "^3.1.0",
     "@openzeppelin/test-helpers": "^0.5.6",
+    "openzeppelin-solidity": "3.1.0",
     "truffle": "^5.1.41",
     "truffle-flattener": "^1.4.4"
-  }
+  },
+  "description": "https://app.sushiswap.org. Feel free to read the code. More details coming soon.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sushiswap-Classic/sushiswap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Sushiswap-Classic/sushiswap/issues"
+  },
+  "homepage": "https://github.com/Sushiswap-Classic/sushiswap#readme"
 }
